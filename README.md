@@ -6,4 +6,4 @@
 
 ### First Term ![Progress](https://progress-bar.dev/30/?title=done)
 
-* Unit 2:C Programming
+* Unit 2:C Programming (https://www.facebook.com/groups/605031250432906/learning_content/?filter=681972755998614)
