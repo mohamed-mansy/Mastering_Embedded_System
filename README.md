@@ -6,4 +6,4 @@
 
 ### First Term ![Progress](https://progress-bar.dev/30/?title=done)
 
-* [Unit 2:C Programming] (https://drive.google.com/drive/folders/1S5yKklhXoTfO8Ete5vcOqYeITfx1LkMU?usp=drive_link)
+* [Unit 2:C Programming]https://drive.google.com/drive/folders/1S5yKklhXoTfO8Ete5vcOqYeITfx1LkMU?usp=drive_link
