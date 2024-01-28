@@ -8,4 +8,4 @@
 
 * [Unit 2:C Programming]
 
-### Second Term ![Progress](https://progress-bar.dev/6/?title=done)
+### Second Term ![Progress](https://progress-bar.dev/?title=StartSoon)
