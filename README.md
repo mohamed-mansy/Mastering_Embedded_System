@@ -4,4 +4,4 @@
 
 # Contents
 
-### First Term ![Progress](https://progress-bar.dev/91/?title=done)
+### First Term ![Progress](https://progress-bar.dev/30/?title=done)
