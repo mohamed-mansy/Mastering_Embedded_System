@@ -5,4 +5,4 @@
 # Contents
 
 ### First Term ![Progress](https://progress-bar.dev/30/?title=done)
-    - ok
+*     ok
