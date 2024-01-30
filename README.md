@@ -1,6 +1,6 @@
 # Mastering_Embedded_System_Diploma
 
-# ![1](https://github.com/mohamed-mansy/Mastering_Embedded_System/assets/138795542/4d9bc9a9-01a3-46d2-9fda-41b38bc22b38)
+[![image](https://drive.google.com/uc?export=view&id=1Bcpl5OGMCVsqHlF52MFKXuOHNEaKHi92)](https://www.learn-in-depth-store.com/)
 
 # Contents
 
