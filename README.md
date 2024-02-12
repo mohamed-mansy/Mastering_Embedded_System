@@ -1,6 +1,6 @@
 # Mastering_Embedded_System_Diploma
 
-[![image](https://drive.google.com/uc?export=view&id=1Bcpl5OGMCVsqHlF52MFKXuOHNEaKHi92)](https://www.learn-in-depth-store.com/)
+[![image][(https://drive.google.com/uc?export=view&id=1Bcpl5OGMCVsqHlF52MFKXuOHNEaKHi92)](https://www.learn-in-depth-store.com/)
 
 # Contents
 
