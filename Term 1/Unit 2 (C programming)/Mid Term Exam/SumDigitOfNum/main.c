@@ -13,6 +13,8 @@ int main(){
 	setvbuf(stdout, NULL, _IONBF, 0);
 	setvbuf(stderr, NULL, _IONBF, 0);
 
+	//c function to take a number and sum all digits
+	
 	int num;
 	printf("Enter a number: ");
 	scanf("%d", &num);
