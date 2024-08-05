@@ -13,3 +13,5 @@
 - Unit 5: First Term Projects ![image](https://progress-bar.dev/0/)
 
 ### Second Term ![Progress](https://progress-bar.dev/0/?title=Start_Soon)
+
+- Unit 6: MCU Fundamentals ![image](https://progress-bar.dev/0/)
