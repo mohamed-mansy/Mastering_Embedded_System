@@ -1,4 +1,4 @@
-
+//how to implement _sbrk to support mallco in embedded c
 #include <stdint.h>
 #include <stdlib.h>
 typedef volatile uint32_t 	vuint32_t;
