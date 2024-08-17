@@ -1,0 +1,1 @@
+./Collision_Avoidance.exe |tee log.txt
