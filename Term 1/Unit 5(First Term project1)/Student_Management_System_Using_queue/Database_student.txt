@@ -1,0 +1,4 @@
+1 Mohamed Ayman 3.5 22 33 12 52 42
+1 Ahmed Nabil 3.6 34 48 74 27 19
+2 Mancy Ayman 3.6 22 34 55 76 88
+3 kerlos shenoda 3.2 44 89 76 55 43
