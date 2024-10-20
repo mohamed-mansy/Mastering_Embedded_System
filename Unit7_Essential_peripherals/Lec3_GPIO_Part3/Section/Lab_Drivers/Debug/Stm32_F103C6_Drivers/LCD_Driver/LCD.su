@@ -1,0 +1,9 @@
+LCD.c:14:6:my_wait1	24	static
+LCD.c:34:6:IntLCD	8	static
+LCD.c:150:6:LCD_Sendcommand	16	static
+LCD.c:221:6:LCD_displayCharacter	16	static
+LCD.c:284:6:LCD_displayString	24	static
+LCD.c:295:6:LCD_integerToString	32	static
+LCD.c:309:6:LCD_moveCursor	24	static
+LCD.c:341:6:LCD_displayStringRowColumn	16	static
+LCD.c:354:6:LCD_clearScreen	8	static
